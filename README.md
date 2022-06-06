@@ -5,8 +5,11 @@
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/vaishnavi-rathod-827988192/)
 - Some languages I'm familiar with
   C++
+  
   HTML
+  
   Python
+  
   
 ![Vaishnavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=vrathod07&show_icons=true&theme=radical)
 <!---
