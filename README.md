@@ -4,10 +4,8 @@
 - 💞️ I’m looking to collaborate on any NLP or Computer Vision project 
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/vaishnavi-rathod-827988192/)
 - Some languages I'm familiar with
-  C++
-  
+  C++ 
   HTML
-  
   Python
   
   
