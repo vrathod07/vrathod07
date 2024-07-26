@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vrathod07
 - 👀 I’m interested in Software Developement and Machine Learning.
 - 🌱 I’m currently learning NodeJS and Azure DevOps
-- 💞️ I’m looking to collaborate on any Software Develope,emt Project
+- 💞️ I’m looking to collaborate on any Software Development Project
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/vaishnavi-rathod-827988192/)
 - Some languages I'm familiar with
   C++
