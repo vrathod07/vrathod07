@@ -1,11 +1,12 @@
 - 👋 Hi, I’m @vrathod07
-- 👀 I’m interested in Machine Learning and Artificial Intelligence
-- 🌱 I’m currently learning Natural Language Processing 
-- 💞️ I’m looking to collaborate on any NLP or Computer Vision project 
+- 👀 I’m interested in Software Developement and Machine Learning.
+- 🌱 I’m currently learning NodeJS and Azure DevOps
+- 💞️ I’m looking to collaborate on any Software Develope,emt Project
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/vaishnavi-rathod-827988192/)
 - Some languages I'm familiar with
-  C++ 
-  HTML
+  C++
+  Java
+  Typescript
   Python
   
   
